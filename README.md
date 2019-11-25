@@ -44,7 +44,8 @@ The columns of the features attributes summary documents the codes from the dict
 Not only was missing data was looked at, since the unsupervised learning techniques to be used will only work on data that is encoded numerically, you need to make a few encoding changes or additional assumptions. Most of the values in the dataset are encoded using numbers, not all of them represent numeric values. This is due to the re-encoding of the data.
 
 ## Results
-[here](https://github.com/sylvesters911/Identify_Customer_Segments/blob/master/Identify_Customer_Segments.ipynb)
+
+The view of the results can be obtained here and a more in depth discussion is in the script [here](https://github.com/sylvesters911/Identify_Customer_Segments/blob/master/Identify_Customer_Segments.ipynb)
 
 ## Acknowledgements and Additional Scripts
 Acknowledgements sited is Udacity and an additional script is used to keep the session active.
